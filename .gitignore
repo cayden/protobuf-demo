@@ -1,0 +1,5 @@
+ca/
+*.log
+.idea/
+#config*.yaml
+vendor

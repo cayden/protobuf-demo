@@ -1,0 +1,1 @@
+go mod edit -require=github.com/hyperledger/fabric@v1.4.3
